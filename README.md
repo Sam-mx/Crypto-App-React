@@ -14,6 +14,7 @@ This project was built using these technologies.
 - CSS3
 - VsCode
 - Vercel
+- axios
 - API
 
 ## API
