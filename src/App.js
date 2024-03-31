@@ -8,7 +8,7 @@ function App() {
   const [coins,setCoins] = useState([])
   const [search,setSearch] = useState('')
   useEffect(() => {
-    const apiUrl = 'http://localhost:5000/api/coins'; // Update the API URL
+    const apiUrl = 'https://sam-crypto.vercel.app/api/coins'; // Update the API URL
     axios.get(apiUrl)
     .then(res=>{
        setCoins(res.data)
