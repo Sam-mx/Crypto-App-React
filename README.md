@@ -1,6 +1,6 @@
 <h2 align="center">
   Sam Crypto<br/>
-  <a href="https://sanshwe.vercel.app/" target="_blank">Demo's Here</a>
+  <a href="https://sam-crypto.vercel.app/" target="_blank">Demo's Here</a>
 </h2>
 
 ## Description
